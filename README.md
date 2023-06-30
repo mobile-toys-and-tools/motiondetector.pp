@@ -11,13 +11,13 @@ This privacy policy governs your use of the software application Motion Detector
 ##Contact Information
 The Application collects the Contact Information in devices having phone sets, intentionally. It is not applicable to Tablet PCs etc. which does not have phone sets. This Application keeps phone number of a user’s contact selected by user to call in case of alarm. The Contact Information is not transmitted to any other site or shared with third parties. We also do not use the information you have provided us for any notices and marketing promotions.
 
-##User Provided Information
+## User Provided Information
 The Application does not need registration when you download and run the application. We also do not keep any of your sensitive and contact information. We also do not use the information you might have provided us to contact you from time to time to provide you required notices and marketing promotions.
 
-##Phone State
+## Phone State
 The Application automatically collects the Phone State information in devices with phone sets. It is not applicable to Tablet PCs etc. which does not have phone sets. Phone State information is automatically collected to detect if any mobile network is available at the moment. If any mobile network is found available, this Application may proceed, could make phone call or could send SMS if user had set these options before. This Application does not share your Phone State information with third parties.
 
-##Automatically Collected Information
+## Automatically Collected Information
 The Application does not collect information from and/or for social networking platforms (e.g., pulling contact information, friend lists, login information, photos or check-ins). In addition, the Application does not collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
 
 #Does the Application collect precise real time location information of the device?
